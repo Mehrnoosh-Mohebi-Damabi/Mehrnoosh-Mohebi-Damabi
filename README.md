@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mehrnoosh Mohebi Damabi
+# Hi there 👋, I'm Mehrnoosh 
 
 ## About Me
 
