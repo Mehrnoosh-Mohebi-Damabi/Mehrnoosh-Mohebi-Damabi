@@ -1,63 +1,64 @@
-# Hi, I'm Mehrnoosh 👋
+# Hi there 👋, I'm Mehrnoosh
 
-I'm completing professional training in Data Science & AI at
-WBS CODING SCHOOL, building on a master's degree in Computer
-Software Engineering and over 14 years of experience in IT.
+## About Me
 
-My background spans infrastructure, information security,
-risk management, and digital product delivery. I'm now
-developing my technical skills through hands-on data projects.
+- 🎓 Master's degree in Computer Software Engineering.
+- 💻 Over 14 years of experience in IT infrastructure, information security, and digital products.
+- 🌱 Currently completing Data Science & AI training at WBS CODING SCHOOL.
+- 🔎 Interested in AI document processing, data quality, and technical implementation.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mehrnoosh-mohebi/).
 
-## What I work with
+## Tools
 
-- Python · pandas · NumPy
-- SQL · MySQL · Google BigQuery
-- Streamlit · SQLAlchemy
-- Tableau · Looker Studio
-- Git · GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## My interests
+## Certificates
 
-I'm particularly interested in extracting information from
-documents with AI and evaluating the accuracy and completeness
-of the results. I want to deepen my practical skills in LLMs
-and OCR.
+- 🎓 PCEP — Certified Entry-Level Python Programmer
+- 📊 Practical A/B Testing
 
-## Selected projects
+## Projects & Highlights
 
-### [Liane's Library](https://github.com/Mehrnoosh86/Lian-s-Library)
-Co-developed a Streamlit application for book searches,
-loans, and returns, using MySQL and SQLAlchemy.
+### [📚 Liane's Library](https://github.com/Mehrnoosh86/Lian-s-Library)
 
-### [ENIAC Discount Strategy Analysis](https://github.com/Mehrnoosh86/ENIAC-Discount-Strategy-Analysis)
-Explored relationships between e-commerce tables, identified
-data-quality problems, and prepared data with Python,
-pandas, and NumPy to evaluate discount strategies.
+Co-developed a Streamlit application for managing a personal library,
+with MySQL and SQLAlchemy for book records and loan history.
 
-### [ENIAC A/B Test Analysis](https://github.com/Mehrnoosh86/Eniac-Button-A-B-Test)
-Independently mapped table relationships, defined evaluation
-metrics, and applied statistical tests. Documented the
-limitations of the results and evidence needed for a decision.
+**Tools:** Python · Streamlit · MySQL · SQLAlchemy
 
-### [GoExplore Sabah](https://github.com/Mehrnoosh86/GoExplore-Sabah)
-Analyzed sales data with SQL and BigQuery and built a Looker
-Studio dashboard. Compared matching seven-month periods
-across four years to account for incomplete annual data.
+### [🛒 ENIAC Discount Strategy Analysis](https://github.com/Mehrnoosh86/ENIAC-Discount-Strategy-Analysis)
 
-### [ENIAC Brazil Market Entry Analysis](https://github.com/Mehrnoosh86/Eniac-Brazil-Market-Entry-Analysis)
-Used SQL and Tableau to assess a potential logistics and
-marketplace partner for expansion into Brazil.
+Investigated e-commerce data quality and table relationships,
+prepared data, and developed recommendations about discount strategies.
 
-These projects were completed during my WBS Data Science & AI
-training.
+**Tools:** Python · pandas · NumPy
 
-## Certifications
+### [🧪 ENIAC A/B Test Analysis](https://github.com/Mehrnoosh86/Eniac-Button-A-B-Test)
 
-- PCEP — Certified Entry-Level Python Programmer
-- Practical A/B Testing
+Defined metrics, mapped table relationships, and applied statistical tests.
+Documented the limitations of the results and evidence needed for a decision.
 
-## Connect with me
+**Tools:** Python · Statistical Analysis · A/B Testing
 
-[LinkedIn](https://www.linkedin.com/in/mehrnoosh-mohebi/)
+### [📈 GoExplore Sabah](https://github.com/Mehrnoosh86/GoExplore-Sabah)
 
-Based in Düsseldorf, Germany.
+Analyzed sales performance and built an interactive dashboard,
+using comparable periods across four years.
+
+**Tools:** SQL · BigQuery · Looker Studio
+
+### [🌎 ENIAC Brazil Market Entry Analysis](https://github.com/Mehrnoosh86/Eniac-Brazil-Market-Entry-Analysis)
+
+Evaluated a potential logistics and marketplace partner using
+delivery and market data.
+
+**Tools:** SQL · Tableau
+
+These projects were completed during my WBS Data Science & AI training.
