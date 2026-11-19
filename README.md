@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mehrnoosh
+# Hi there 👋, I'm Mehrnoosh Mohebi Damabi
 
 ## About Me
 
@@ -22,16 +22,16 @@
 ## Certificates
 
 - 🎓 PCEP — Certified Entry-Level Python Programmer
-- 📊 [Practical A/B Testing](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Practical%20AB%20Testing.pdf)
-- 📈 [Statistics Foundations 1 — The Basics](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%201%20The%20Basics%20.pdf)
-- 🎲 [Statistics Foundations 2 — Probability](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%202%20Probability.pdf)
-- 📐 [Statistics Foundations 4 — Advanced Topics](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%204%20Advanced%20Topics.pdf)
+- 📊 [Practical A/B Testing](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Practical%20AB%20Testing.pdf)
+- 📈 [Statistics Foundations 1 — The Basics](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%201%20The%20Basics%20.pdf)
+- 🎲 [Statistics Foundations 2 — Probability](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%202%20Probability.pdf)
+- 📐 [Statistics Foundations 4 — Advanced Topics](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%204%20Advanced%20Topics.pdf)
 
-[View all certificates](https://github.com/Mehrnoosh86/My-Certificates)
+[View all certificates](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates)
 
 ## Projects & Highlights
 
-### [📚 Liane's Library](https://github.com/Mehrnoosh86/Lian-s-Library)
+### [📚 Liane's Library](https://github.com/Mehrnoosh-Mohebi-Damabi/Lian-s-Library)
 
 Co-developed a personal library app for book searches, loans, and returns.
 
@@ -40,7 +40,7 @@ Co-developed a personal library app for book searches, loans, and returns.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 
-### [🛒 ENIAC Discount Strategy Analysis](https://github.com/Mehrnoosh86/ENIAC-Discount-Strategy-Analysis)
+### [🛒 ENIAC Discount Strategy Analysis](https://github.com/Mehrnoosh-Mohebi-Damabi/ENIAC-Discount-Strategy-Analysis)
 
 Investigated data-quality problems and prepared e-commerce data to evaluate discount strategies.
 
@@ -49,7 +49,7 @@ Investigated data-quality problems and prepared e-commerce data to evaluate disc
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00897B?style=flat-square)
 
-### [🧪 ENIAC A/B Test Analysis](https://github.com/Mehrnoosh86/Eniac-Button-A-B-Test)
+### [🧪 ENIAC A/B Test Analysis](https://github.com/Mehrnoosh-Mohebi-Damabi/Eniac-Button-A-B-Test)
 
 Defined evaluation metrics, applied statistical tests, and documented the limitations of the results.
 
@@ -58,7 +58,7 @@ Defined evaluation metrics, applied statistical tests, and documented the limita
 ![Statistics](https://img.shields.io/badge/Statistics-E67E22?style=flat-square)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-00897B?style=flat-square)
 
-### [📈 GoExplore Sabah](https://github.com/Mehrnoosh86/GoExplore-Sabah)
+### [📈 GoExplore Sabah](https://github.com/Mehrnoosh-Mohebi-Damabi/GoExplore-Sabah)
 
 Built a sales dashboard and compared matching seven-month periods across four years.
 
@@ -67,7 +67,7 @@ Built a sales dashboard and compared matching seven-month periods across four ye
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-673AB7?style=flat-square)
 ![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-00897B?style=flat-square)
 
-### [🌎 ENIAC Brazil Market Entry Analysis](https://github.com/Mehrnoosh86/Eniac-Brazil-Market-Entry-Analysis)
+### [🌎 ENIAC Brazil Market Entry Analysis](https://github.com/Mehrnoosh-Mohebi-Damabi/Eniac-Brazil-Market-Entry-Analysis)
 
 Evaluated a potential logistics and marketplace partner for expansion into Brazil.
 
