@@ -8,6 +8,12 @@
 - 🔎 Interested in AI document processing, data quality, and technical implementation.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mehrnoosh-mohebi/).
 
+- ## 🌐 My Portfolio
+
+Explore my Data Science & AI projects, technical skills, professional experience and certificates.
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-155E75?style=for-the-badge&logo=github&logoColor=white)](https://mehrnoosh-mohebi-damabi.github.io/)
+
 ## Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
