@@ -22,7 +22,12 @@
 ## Certificates
 
 - 🎓 PCEP — Certified Entry-Level Python Programmer
-- 📊 Practical A/B Testing
+- 📊 [Practical A/B Testing](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Practical%20AB%20Testing.pdf)
+- 📈 [Statistics Foundations 1 — The Basics](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%201%20The%20Basics%20.pdf)
+- 🎲 [Statistics Foundations 2 — Probability](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%202%20Probability.pdf)
+- 📐 [Statistics Foundations 4 — Advanced Topics](https://github.com/Mehrnoosh86/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%204%20Advanced%20Topics.pdf)
+
+[View all certificates](https://github.com/Mehrnoosh86/My-Certificates)
 
 ## Projects & Highlights
 
